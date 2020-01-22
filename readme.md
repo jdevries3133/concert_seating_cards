@@ -1,3 +1,3 @@
 Hello.
 
-This program receives two rosters and outputs a grid of stuff.# Concert Seating Cards
+This program receives two rosters and outputs printable flash cards to be placed on seats.
